@@ -1,0 +1,3 @@
+
+var sports = function(){};
+sports();

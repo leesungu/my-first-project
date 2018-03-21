@@ -1,0 +1,6 @@
+// forEach()
+
+[1, 2, 3].forEach(function(element, index, list){
+    js.log('value: ' + element + ', index: ' + index);
+});
+
